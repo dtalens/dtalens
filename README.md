@@ -10,4 +10,4 @@
 - 👯 Es benvinguda qualsevol ajuda en la traducció al Català dels projectes que col·labore.
 
 Enllaços xarxes socials:
-<a rel="nofollow me" href="https://mastodon.dtalens.com/@dtalens">https://mastodon.dtalens.com/@dtalens</a>
+- <a rel="nofollow me" href="https://mastodon.dtalens.com/@dtalens">https://mastodon.dtalens.com/@dtalens</a>
