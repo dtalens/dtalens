@@ -8,3 +8,6 @@
 - 🌱 Sóc apasionat de les xarxes i les aplicacions web.
 - 🌱 M'agradaria aprendre llenguatge Python...
 - 👯 Es benvinguda qualsevol ajuda en la traducció al Català dels projectes que col·labore.
+
+Enllaços xarxes socials:
+<a rel="me" href="https://mastodon.dtalens.com/@dtalens">Mastodon</a>
