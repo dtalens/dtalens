@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 <!--
 **dtalens/dtalens** is a ✨ repositori especial ✨ on hi ha el fitxer `README.md` on apareix el perfil de GitHub.
