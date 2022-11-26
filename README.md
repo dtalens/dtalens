@@ -9,5 +9,5 @@
 - 🌱 M'agradaria aprendre llenguatge Python...
 - 👯 Es benvinguda qualsevol ajuda en la traducció al Català dels projectes que col·labore.
 
-Enllaços xarxes socials:
-- <a rel="nofollow me" class="Link--primary" href="https://mastodon.dtalens.com/@Dani">https://mastodon.dtalens.com/@Dani/</a>
+Blog personal:
+[dtalens.com](https://dtalens.com/)
